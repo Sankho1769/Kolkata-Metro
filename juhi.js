@@ -6,6 +6,7 @@
         "Purple": ["Joka", "Thakurpukur", "Sakher Bazar", "Behala Chowrashtra", "Behala Bazar", "Taratala", "Majerhat"],
         "Yellow": ["Noapara", "Dum Dum Cantonment", "Jessore Road", "Jai Hind"]
     };
+    
  
     const fareMatrices = {
         "Blue": [
